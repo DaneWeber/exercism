@@ -1,0 +1,4 @@
+node_modules/*
+
+# Keep empty folders for selective sync setup
+!node_modules/.keep.git
